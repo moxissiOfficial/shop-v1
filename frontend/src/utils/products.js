@@ -1,12 +1,12 @@
 const products = [
   {
     _id: "1",
-    name: "First item",
+    name: "Jeden",
     image: "../../assets/images/1.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, exercitationem eaque? Perspiciatis veritatis maxime, sed corporis vel voluptatem, nisi hic distinctio animi deleniti sapiente nihil assumenda magni et odit minus?",
-    brand: "unknow",
-    category: "Electronic",
+    brand: "Neznámý",
+    category: "Elektronika",
     price: 100,
     countInStock: 2,
     rating: 4.5,
@@ -14,12 +14,12 @@ const products = [
   },
   {
     _id: "2",
-    name: "Second item",
+    name: "Druhý",
     image: "../../assets/images/2.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, exercitationem eaque? Perspiciatis veritatis maxime, sed corporis vel voluptatem, nisi hic distinctio animi deleniti sapiente nihil assumenda magni et odit minus?",
-    brand: "unknow",
-    category: "Electronic",
+    brand: "Neznnámý",
+    category: "Elektronika",
     price: 20,
     countInStock: 0,
     rating: 1.0,
